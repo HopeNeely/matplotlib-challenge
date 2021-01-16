@@ -1,1 +1,5 @@
 # matplotlib-challenge
+
+In this challenge, Pymaceuticals Inc., a fictitious pharmaceutical company that specializes in anti-cancer pharmaceuticals. In its most recent efforts, it began screening for potential treatments for squamous cell carcinoma (SCC), a commonly occurring form of skin cancer.
+
+The data analysed is from Pymaceuticals' most recent animal study. In this study, 249 mice identified with SCC tumor growth were treated through a variety of drug regimens. Over the course of 45 days, tumor development was observed and measured. The purpose of this study was to compare the performance of Pymaceuticals' drug of interest, Capomulin, versus the other treatment regimens. The challenge is to generate all of the tables and figures needed for the technical report of the study and a top-level summary of the study results.
